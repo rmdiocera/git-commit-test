@@ -1,0 +1,19 @@
+html, body { 
+    background: url(../admin/uploads/sp_cart_bg_img/bg-login.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.card-img-top {
+	width: 100%;
+    max-height: 27vw;
+    object-fit: cover;
+}
+
+i {
+	font-size: 2em;
+	padding: 0;
+	margin: auto;
+}

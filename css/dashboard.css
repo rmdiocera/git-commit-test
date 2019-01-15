@@ -1,0 +1,7 @@
+html, body { 
+    background: url(../admin/uploads/sp_cart_bg_img/bg-dashboard.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
